@@ -1,0 +1,183 @@
+# ==============================
+# OS
+# ==============================
+
+# macOS
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows
+
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.stackdump
+
+# Linux
+
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ==============================
+# Python
+# ==============================
+
+# Bytecode and cache
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Compiled extensions
+
+*.so
+
+# Virtual environments
+
+.env
+.env.*
+venv/
+env/
+ENV/
+.venv/
+
+# Distribution and packaging
+
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+
+*.manifest
+*.spec
+
+# Logs and temporary files
+
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# ==============================
+# Testing and coverage
+# ==============================
+
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+.tox/
+.nox/
+hypothesis/
+
+# ==============================
+# Analysis tools
+# ==============================
+
+# MyPy
+
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Ruff
+
+.ruff_cache/
+
+# Pyright
+
+.pyright/
+
+# Pylint
+
+.pylint.d/
+
+# ==============================
+# IDEs and editors
+# ==============================
+
+# Visual Studio Code
+
+.vscode/
+
+# JetBrains
+
+.idea/
+
+# Vim
+
+*.swp
+*.swo
+
+# Sublime Text
+
+*.sublime-project
+*.sublime-workspace
+
+# ==============================
+# Documentación
+# ==============================
+
+docs/_build/
+site/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+
+.ipynb_checkpoints/
+
+# ==============================
+# Local project files
+# ==============================
+
+# Environment variables and secrets
+
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Local configuration
+
+*.local
+
+# ==============================
+# Database files
+# ==============================
+db/*.db
+db/*.sqlite
+db/*.sqlite3
+
+resources/
