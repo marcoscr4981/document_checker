@@ -64,7 +64,7 @@ document_checker/
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/USUARIO/document_checker.git
+git clone https://github.com/marcoscr4981/document_checker.git
 ```
 
 Acceder al directorio del proyecto:
@@ -72,8 +72,6 @@ Acceder al directorio del proyecto:
 ```bash
 cd document_checker
 ```
-
-Sustituir `USUARIO` por el nombre de usuario correspondiente de GitHub.
 
 ## Uso
 
